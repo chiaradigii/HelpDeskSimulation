@@ -14,9 +14,8 @@ El grupo L2-Otros cuenta con 8 recursos que reciben los tickets y demoran U(1000
 El 55% se resuelve en ese tiempo o reidentifica como “Entrenamiento” y se procede a cerrar.
 El 45% restante son relacionados con Apps y hardware y son reasignados al L2 Apps-Hardware.
 
--------------------------------------
+
         TABLA DE ARRIBOS 
--------------------------------------
 Hora            Tiempo arribos
 0 - 8           500 +/- 150 segundos
 8 - 11          270 +/- 100 segundos

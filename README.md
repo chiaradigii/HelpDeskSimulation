@@ -24,6 +24,6 @@ Hora            Tiempo arribos
 18 - 21         410 +/- 190 segundos
 21 - 24         445 +/- 180 segundos
 
-Horario de atención del Product Owner: 8 a 17 hs
+Horario de atención del nivel Product Owner: 8 a 17 hs
 
 #SUPUESTOS : Este codigo sirve para simular la jornada laboral de un solo dia, hay que modificar los valores si deseamos simular mas

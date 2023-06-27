@@ -1,5 +1,8 @@
 # HelpDeskSimulation
-This is a work done for the systems simulation course. We simulate the model of a Help Desk in GPSS, ProModel and Python languages (using simpy).
+This work was done for the Systems Simulation University course.
+We simulated the model of a Help Desk system in three languages: GPSS, ProModel and Python (using the Simpy module).
+
+
 
 La empresa Grafito cuenta con un sistema de ayuda a sus usuarios en cuanto a TI con el fin de solucionar problemas relacionados con el software, hardware y otros.
 La mayoría de los grupos cuentan con recursos en varios países por lo cual su procesamiento es continuo. Los tickets son creados por los usuarios en el sistema de gestión SNOW según la tabla A.
